@@ -1,0 +1,13 @@
+com\koerber\order\entity\OrderStatus.class
+com\koerber\order\dto\BatchDTO.class
+com\koerber\order\client\InventoryClient.class
+com\koerber\order\dto\OrderResponse.class
+com\koerber\order\service\OrderService.class
+com\koerber\order\controller\OrderController.class
+com\koerber\order\dto\OrderRequest.class
+com\koerber\order\repository\OrderRepository.class
+com\koerber\order\dto\InventoryUpdateResponse.class
+com\koerber\order\entity\Order.class
+com\koerber\order\OrderServiceApplication.class
+com\koerber\order\dto\InventoryResponse.class
+com\koerber\order\dto\InventoryUpdateRequest.class

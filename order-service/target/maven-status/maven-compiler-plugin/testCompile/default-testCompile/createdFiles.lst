@@ -1,0 +1,3 @@
+com\koerber\order\service\OrderServiceTest.class
+com\koerber\order\controller\OrderControllerTest.class
+com\koerber\order\OrderServiceIntegrationTest.class

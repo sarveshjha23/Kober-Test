@@ -1,0 +1,13 @@
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\client\InventoryClient.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\OrderServiceApplication.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\dto\BatchDTO.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\dto\InventoryUpdateResponse.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\dto\OrderRequest.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\dto\OrderResponse.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\controller\OrderController.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\service\OrderService.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\dto\InventoryUpdateRequest.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\entity\OrderStatus.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\dto\InventoryResponse.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\repository\OrderRepository.java
+C:\Users\z005243p\new\order-service\src\main\java\com\koerber\order\entity\Order.java
